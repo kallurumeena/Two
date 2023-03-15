@@ -1,7 +1,7 @@
 <mvc:View controllerName="thir.controller.Third"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page5" title="{i18n>title}">
         <content />
     </Page>
 </mvc:View>
